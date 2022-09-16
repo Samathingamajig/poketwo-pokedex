@@ -8,7 +8,7 @@ fn main() {
 
     let all_pokemon = include_str!("./pokemon.txt");
     let all_pokemon: Vec<String> = all_pokemon
-        .split("\n")
+        .lines()
         .map(|pokemon| pokemon.to_lowercase())
         .collect();
     let all_pokemon_str: Vec<&str> = all_pokemon.iter().map(|pokemon| pokemon.as_str()).collect();

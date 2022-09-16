@@ -6,9 +6,9 @@ fn main() {
     println!("A tool for finding a pokemon based on poketwo's obfuscated name");
     println!("================");
 
-    let all_pokemon = include_str!("pokemon.txt");
+    let all_pokemon = include_str!("./pokemon.txt");
     let all_pokemon: Vec<String> = all_pokemon
-        .split("\r\n")
+        .split("\n")
         .map(|pokemon| pokemon.to_lowercase())
         .collect();
     let all_pokemon_str: Vec<&str> = all_pokemon.iter().map(|pokemon| pokemon.as_str()).collect();

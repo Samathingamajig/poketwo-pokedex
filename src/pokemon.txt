@@ -904,12 +904,103 @@ Sneasler
 Overqwil
 Enamorus
 Sprigatito
+Floragato
+Meowscarada
 Fuecoco
+Crocalor
+Skeledirge
 Quaxly
-Pawmi
-Smoliv
+Quaxwell
+Quaquaval
 Lechonk
+Oinkologne
+Tarountula
+Spidopos
+Nymble
+Lokix
+Pawmi
+Pawmo
+Pawmot
+Clodsire
+Tandemaus
+Maushold
 Fidough
+Dachsbun
+Smoliv
+Dolliv
+Arboliva
+Squawkabilly
+Nacli
+Naclstack
+Garganacl
+Annihilape
+Charcadet
+Armarouge
+Ceruledge
+Tadbulb
+Bellibolt
+Wattrel
+Kilowattrel
+Dudunsparce
+Farigiraf
+Maschiff
+Mabosstiff
+Shroodle
+Grafaiai
+Bramblin
+Brambleghast
+Toedscool
+Toedscruel
+Klawf
+Capsakid
+Scovillain
+Rellor
+Rabsca
+Flittle
+Espathra
+Tinkatink
+Tinkatuff
+Tinkaton
+Wiglett
+Wugtrio
+Bombirdier
+Finizen
+Varoom
+Revavroom
+Cyclizar
+Orthworm
+Glimmet
+Glimmora
+Greavard
+Houndstone
+Flamigo
+Cetoddle
 Cetitan
+Kingambit
+Veluza
+Dondozo
+Tatsugiri
+Great Tusk
+Scream Tail
+Brute Bonnet
+Flutter Mane
+Slither Wing
+Sandy Shocks
+Iron Bundle
+Iron Hands
+Iron Jugulis
+Iron Moth
+Iron Thorns
+Frigibax
+Artibax
+Baxcalibur
+Gimmighoul
+Gholdengo
+Wo-Chien
+Chien-Pao
+Ting-Lu
+Chi-Yu
+Roaring Moon
+Iron Valiant
 Koraidon
 Miraidon
